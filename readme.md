@@ -1,6 +1,6 @@
 # Setup spark-scala environment
 
-- install the package
+- Install the package
 
 ```shell
 pip install spylon-kernel
@@ -12,7 +12,7 @@ pip install spylon-kernel
 python -m spylon_kernel install
 ```
 
-- start the jupyter lab
+- Start the jupyter lab
 
 ```shell
 jupyter lab
